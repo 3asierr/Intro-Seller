@@ -1,20 +1,18 @@
 
 import React from 'react';
-import './styleWhere.scss';
 
 class WhereShouldISell extends React.Component {
  render() {
-    return <div className="wrapper-content2">
-        <div className="block">
-        
-          <div class="des-ct2">
+    return <div className='wrapper-content2'>
+         <div className="where"><img src="./Images/Where.png"/></div>
+        <div className='block'>
+          <div className='des-ct2'>
             <h2>Where should i sell?</h2> 
           <div>            
               <p>
               You are a brand owner, distributor or authorized reseller of branded products sourced locally. 
               You have offline retail presence and want to sell online. 
               You want to offer customers a good shopping experience and are wiling to invest to get maximum visibility.</p>
-               
                <p>
               Offering the world's largest branded assortment, 
               the NiaMall channel offers an unparalleled shopping experience for customers with authentic products, 

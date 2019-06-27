@@ -8,6 +8,7 @@ const SVG = ({
   className = "",
   viewBox = "0 0 24 20.09"
 }) => (
+  
   <svg
     width={width}
     height={height}
